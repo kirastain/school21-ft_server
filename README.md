@@ -1,6 +1,8 @@
 # school21-ft_server
 ## Useful links
 
+http://blog.sedicomm.com/2018/07/18/ustanovka-nginx-mariadb-php-i-phpmyadmin-v-ubuntu-18-04/
+
 ## NGINX
 
 https://www.youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc
