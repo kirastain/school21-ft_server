@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS db_name;
+CREATE DATABASE db_name;
+GRANT ALL PRIVILEGES ON db_name.* TO 'root'@'localhost' IDENTIFIED BY 'root';
+FLUSH PRIVILEGES;
